@@ -66,4 +66,4 @@ Feel free to fork this project and submit pull requests for any improvements!
 ## Demonstration Video
 
 The video below is a link to a demonstration video of how this interface works:
-(insert here)
+(insert video link here)
